@@ -1,1 +1,0 @@
-# frontity-mars-theme
